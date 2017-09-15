@@ -1,0 +1,13 @@
+.task_list {
+	list-style-type: decimal;
+	list-style-position: inside;
+}
+.list_items {
+  padding: 5px 10px;
+  margin: 0 3px;
+}
+.completed {
+	text-decoration: line-through; 
+}
+
+
